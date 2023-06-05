@@ -1,4 +1,4 @@
-const BASE_URL = 'http://jsonplaceholder.typicode.com';
+const BASE_URL = 'https://jsonplaceholder.typicode.com';
 
 export const getUserList = async () => {
   const response = await fetch(`${BASE_URL}/users`);
