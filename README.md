@@ -28,6 +28,6 @@ npm run dev
 5. Open your browser and visit http://localhost:3000 to see the application.
 
 ### Usage
-The homepage will display a list of users. Click on a user to view their details and posts.
+The homepage will display a list of users. Click on a user to view their posts.
 
 ### Live site: https://users-app-sage.vercel.app/
