@@ -29,3 +29,5 @@ npm run dev
 
 ### Usage
 The homepage will display a list of users. Click on a user to view their details and posts.
+
+### Live site: https://users-app-sage.vercel.app/
